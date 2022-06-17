@@ -8,4 +8,4 @@ This is a basic Group assigner that accepts an array of names and groups them by
 # Future Development
 1. Deal with Remainders
 2. Allow variable group sizes
-3. Allow I/O for user to input theiir own names
+3. Allow I/O for user to input their own names
