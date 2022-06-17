@@ -1,6 +1,6 @@
 # Random-Group-Assigner
 
-This is a basic Group assigner that accepts an array of names and groups them by 4. It doesn't handle remainders so if the number of students is not divisible by 4 the last group will have less than 4. Future development will be done to handle that issue.
+This is a basic Group assigner that accepts an array of names and groups them by 4. It doesn't handle remainders so if the number of students is not divisible by 4 the last group will have less than 4. Future development will be done to handle that issue. The original intended for this script was to make groups for the group projects during the boot camp I am a part of as a Teaching Assistant.
 
 # Built Using
 - JavaScript
